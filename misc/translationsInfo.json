@@ -2,6 +2,6 @@
 	"LastUpdated": 1648786860544,
 	"GameParams": "--ip 20.200.236.246 --ip 20.200.230.135 --port 10000",
 	"Password": "a",
-	"Version": 2,
+	"Version": 1,
 	"Binaries": "https://cdn.discordapp.com/attachments/513875582350524416/963560532206559273/2.zip"
 }
